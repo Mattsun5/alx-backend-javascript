@@ -1,4 +1,5 @@
-module.exports = (message) => {
+let displayMessage = (message) => {
  console.log(message);
 }
 
+module.exports = displayMessage;
