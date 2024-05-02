@@ -1,4 +1,4 @@
-let displayMessage = (message) => {
+function displayMessage(message) {
  console.log(message);
 }
 
