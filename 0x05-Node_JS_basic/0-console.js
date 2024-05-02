@@ -1,4 +1,3 @@
 module.exports = (message) => {
- console.log(message);
+ console.log(message + '\n');
 }
-
