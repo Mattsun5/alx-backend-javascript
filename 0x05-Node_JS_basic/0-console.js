@@ -1,5 +1,5 @@
-let displayMessage = message => {
-    console.log(`${message}\n`);
+function displayMessage(message) {
+    console.log(message);
 }
 
 module.exports = displayMessage;
